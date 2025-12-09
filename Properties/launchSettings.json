@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "gestao-escolar-api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:7060;http://localhost:58864",
+      "launchUrl": "swagger"
+    }
+  }
+}

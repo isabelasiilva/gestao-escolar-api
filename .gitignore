@@ -1,0 +1,13 @@
+
+# Gemini CLI history
+.gemini/
+
+# .NET Core build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files
+.vs/
+
+# Local development settings
+appsettings.Development.json
